@@ -10,6 +10,7 @@ The Resort Management System is a web application developed using ASP.NET Core a
 - **Responsive Design**: Built with Bootstrap for a responsive and user-friendly interface.
 - **Database Integration**: SQL Server for managing all customer, booking, and room data.
 - **Admin Panel**: For resort staff to manage rooms, bookings, and customer details.
+- **Payment Module**: User can pay online through the UPI and other options.
 
 ## Technologies Used
 
